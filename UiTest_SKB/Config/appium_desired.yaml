@@ -1,0 +1,7 @@
+    "platformName": Android
+    "platformVersion": 6.0.1
+    "deviceName": xiaomi
+    "appPackage": cn.net.tiku.shikaobang.syn
+    "appActivity": cn.net.tiku.shikaobang.syn.ui.splash.SplashActivity
+    "noReset": True
+
